@@ -5,7 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\RealEstateApp.Core\RealEstateApp.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Config\" />
+    <Folder Include="Data\NewFolder\" />
   </ItemGroup>
 
 </Project>

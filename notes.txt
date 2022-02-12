@@ -1,0 +1,5 @@
+Functional Test -> As a whole: HomeControllerIndex / ApiProjectsControllerList / ProjectGetById
+
+Integration Test -> Infracture testing involves updates in the database.
+
+Unit Test -> as a single unit

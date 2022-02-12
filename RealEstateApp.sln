@@ -14,6 +14,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2FF556CE-5D51-4F66-A97C-B4B309D0BC81}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{367DEE41-FDAE-40ED-89CB-AD1FB14623DF}"
+	ProjectSection(SolutionItems) = preProject
+		notes.txt = notes.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateApp.FunctionalTests", "RealEstateApp.FunctionalTests\RealEstateApp.FunctionalTests.csproj", "{04C362B9-8551-4853-A397-D0C7017B531D}"
 EndProject
